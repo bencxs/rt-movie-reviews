@@ -11,6 +11,7 @@ Libraries used:
 * TFLearn
 
 Also, the pretrained word2vec weights binary file can be downloaded from
+
 https://code.google.com/p/word2vec/
 
 ## Status
@@ -20,4 +21,5 @@ https://code.google.com/p/word2vec/
 
 ## References
 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+
 [Convolutional Neural Networks for Sentence Classification - Yoon Kim, EMNLP 2014](https://github.com/yoonkim/CNN_sentence)
